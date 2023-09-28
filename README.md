@@ -12,6 +12,8 @@ Each solution is organized as follows:
 - **Date**: the date when you solved the challenge.
 - **Solution**: the solution in Python or other relevant programming languages.
 
+You can find the solutions in the folder [solutions](solutions).
+
 Feel free to explore the solutions and use them as a reference for your own work. If you have any questions or suggestions, please don't hesitate [reach out to me](https://www.linkedin.com/in/caique-resende/).
 
 Happy coding! 🚀
